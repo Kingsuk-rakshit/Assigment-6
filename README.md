@@ -11,7 +11,7 @@ An AI-powered system that ingests learning content from documents and videos and
 Project Demo
 
 ```markdown
-![Demo]demo.gif
+![Demo][demo.gif](https://github.com/Kingsuk-rakshit/Assigment-6/blob/7c7fe0dd469e5d6005787bf3d29dbe6f3afcf469/demo.gif)
 ````
 
 The demo shows:
@@ -172,6 +172,7 @@ This project demonstrates how large language models can be combined with multi-s
 
 
 ---
+
 
 
 
